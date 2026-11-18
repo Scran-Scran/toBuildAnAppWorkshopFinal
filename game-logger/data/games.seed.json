@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Hades", "platform": "PC", "status": "completed", "rating": 5, "hoursPlayed": 42, "notes": "Best run: Zagreus + Hammer" },
+  { "id": 2, "title": "Celeste", "platform": "Switch", "status": "completed", "rating": 5, "hoursPlayed": 12, "notes": "Farewell chapter took me an evening" },
+  { "id": 3, "title": "Elden Ring", "platform": "PC", "status": "playing", "rating": 4, "hoursPlayed": 87, "notes": "Stuck on a boss. Again." },
+  { "id": 4, "title": "Stardew Valley", "platform": "PC", "status": "playing", "rating": 5, "hoursPlayed": 120, "notes": "Year 3, fully committed to the farm" },
+  { "id": 5, "title": "Disco Elysium", "platform": "PC", "status": "backlog", "rating": null, "hoursPlayed": 0, "notes": "Everyone says start it" },
+  { "id": 6, "title": "Hollow Knight", "platform": "Switch", "status": "dropped", "rating": 3, "hoursPlayed": 9, "notes": "Great, but I kept getting lost" }
+]
