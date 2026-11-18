@@ -1,0 +1,85 @@
+/* Game Log styles. The card markup comes from gameCardHTML() in render.js. */
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
+.add-form {
+  margin-bottom: 30px;
+}
+
+.add-form h2 {
+  margin-bottom: 15px;
+}
+
+.field {
+  display: block;
+  margin-bottom: 12px;
+}
+
+.field input,
+.field select {
+  display: block;
+  margin-top: 5px;
+  padding: 5px;
+  width: 250px;
+}
+
+button {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+button.primary {
+  margin-top: 10px;
+}
+
+.game-list {
+  margin-top: 20px;
+}
+
+.game-card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin-bottom: 15px;
+}
+
+.game-card h3 {
+  margin-top: 0;
+}
+
+.game-card .platform {
+  color: gray;
+}
+
+.game-card .notes {
+  margin-top: 10px;
+}
+
+.game-card .controls {
+  margin-top: 15px;
+}
+
+.game-card .controls label {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.game-card button.delete {
+  margin-top: 10px;
+}
+
+.empty {
+  color: gray;
+}

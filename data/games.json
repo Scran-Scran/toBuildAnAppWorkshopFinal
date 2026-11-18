@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "GTA 6", "platform": "PS5", "status": "playing", "rating": 5, "hoursPlayed": 42, "notes": "Allegedly the best game ever made." },
+  { "id": 2, "title": "Fire Emblem Fortune's Weave", "platform": "Switch", "status": "playing", "rating": 5, "hoursPlayed": 195, "notes": "Actually the best game ever made." }
+]

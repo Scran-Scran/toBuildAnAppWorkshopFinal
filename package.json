@@ -1,0 +1,19 @@
+{
+  "name": "game-logger",
+  "version": "1.0.0",
+  "description": "A small video game logger: add, rate, edit and delete the games you play.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test",
+    "reset": "node scripts/reset.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
